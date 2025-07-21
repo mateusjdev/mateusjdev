@@ -1,6 +1,6 @@
-# Mateus Junior
+# Mateus J.
 
-Fortemente interessado na área da computação e independente da linguagem, busco sempre estar em constante aprendizado.
+Apaixonado por computação, com dedicação contínua ao aprendizado e à evolução técnica. Independente da linguagem ou tecnologia.
 
 ## 🏗️ Projetos
 
@@ -30,11 +30,11 @@ Fortemente interessado na área da computação e independente da linguagem, bus
 - [Rede Neural](https://github.com/mateusjdev/neural) (C++): Implementação de uma Rede Neural (Deep Feed Forward) em C++.
 - [Rede Neural](https://github.com/mateusjdev/neural-cs) (C#): Implementação de uma Rede Neural (Deep Feed Forward) em C#.
 
-<!-- 
+<!--
 
 ## Linguagens
 
-Já utilizei diversas linguagens durante o meu aprendizado. Diria que hoje em dia sou mais proveniente em C# pelo costume durante a graduação e python pela facilidade, mas tenho facilidade de me adaptar a qualquer outra linguagem.
+Já utilizei diversas linguagens durante o meu aprendizado. Hoje em dia sou mais proveniente em C# pelo costume durante a graduação e python pela facilidade, mas tenho facilidade de me adaptar a qualquer outra linguagem.
 
 "Jack of all trades, master of none"
 
@@ -48,18 +48,12 @@ Já utilizei diversas linguagens durante o meu aprendizado. Diria que hoje em di
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="30" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30" />
 
-## Ferramentas
+## Ferramentas e Técnologias
 
 Necessário?
 
-docker
-bash
-linux
-
+docker, bash, linux
 typescript
-
-androidstudio
-vscode
-vim
+androidstudio, vscode, vim
 
 -->
