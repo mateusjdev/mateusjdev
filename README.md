@@ -16,9 +16,9 @@ Apaixonado por computação, com dedicação contínua ao aprendizado e à evolu
 
 ### 🎓 PUC Minas
 
-- [Lucre+](https://github.com/mateusjdev/psg-ti-lucre-mais) (Web): Um site para freelancers.
-- [Absolute Cinema](https://github.com/mateusjdev/psg-ti-absolute-cinema) (Web): Um site para ver informações sobre filmes.
-- [Tetris](https://github.com/mateusjdev/psg-ti-tetris) (C#): Uma implementação do jogo Tetris (1984).
+- [Lucre+](https://github.com/mateusjdev/psg-si-lucre-mais) (Web): Um site para freelancers.
+- [Absolute Cinema](https://github.com/mateusjdev/psg-si-absolute-cinema) (Web): Um site para ver informações sobre filmes.
+- [Tetris](https://github.com/mateusjdev/psg-si-tetris) (C#): Uma implementação do jogo Tetris (1984).
 
 ### ⚙️ Configurações
 
