@@ -12,7 +12,7 @@ Entusiasta da computação e em constante aprendizado com foco na resolução de
 - [Lucre+](https://github.com/mateusjdev/psg-si-lucre-mais) (Web): Um site para freelancers.
 - 🔒 [Absolute Cinema](https://github.com/mateusjdev/psg-si-absolute-cinema) (Web): Um site para ver informações sobre filmes.
 - [Tetris](https://github.com/mateusjdev/psg-si-tetris) (C#): Uma implementação do jogo Tetris (1984).
-- 🔒 [Trem de Controle](https://github.com/mateusjdev/psg-si-trem-de-controle) (Web - Vue/Express): Um sistema web cliente/servidor de gestão de estoque.
+- [Trem de Controle](https://github.com/mateusjdev/psg-si-trem-de-controle) (Web - Vue/Express): Um sistema web cliente/servidor de gestão de estoque.
 - 🔒 [Rouba Montes](https://github.com/mateusjdev/psg-si-rouba-montes) (C#): Implementação de uma versão modificada do jogo de cartas "rouba montes".
 
 ### ⚙️ Configurações
