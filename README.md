@@ -21,7 +21,7 @@ Entusiasta da computação e em constante aprendizado com foco na resolução de
 - 🔒 [dotfiles](https://github.com/mateusjdev/dotfiles): Configurações dos utilitários de sistema controlado pelo "[chezmoi](https://www.chezmoi.io)".
 - 🔒 [gambiarra-de](https://github.com/mateusjdev/gambiarra-de): Configurações do meu desktop environment no linux.
   - [dwm](https://github.com/mateusjdev/dwm): Gerenciador de janelas para X11.
-  - 🔒 dmenu: Menu dinâmico.
+  - [dmenu](https://github.com/mateusjdev/dmenu): Menu dinâmico.
   - 🔒 dwmblocks: Barra de status.
 
 ### 💡 Outros Projetos
