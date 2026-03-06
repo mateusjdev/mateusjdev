@@ -19,7 +19,10 @@ Entusiasta da computação e em constante aprendizado com foco na resolução de
 
 - [nvim](https://github.com/mateusjdev/nvim) (Lua): Configurações do editor de texto via terminal "nvim".
 - 🔒 [dotfiles](https://github.com/mateusjdev/dotfiles): Configurações dos utilitários de sistema controlado pelo "[chezmoi](https://www.chezmoi.io)".
-- 🔒 [gambiarra-de](https://github.com/mateusjdev/gambiarra-de): Configurações do meu desktop environment no linux (dwm+dmenu+dwmblocks).
+- 🔒 [gambiarra-de](https://github.com/mateusjdev/gambiarra-de): Configurações do meu desktop environment no linux.
+  - [dwm](https://github.com/mateusjdev/dwm): Gerenciador de janelas para X11.
+  - 🔒 dmenu: Menu dinâmico.
+  - 🔒 dwmblocks: Barra de status.
 
 ### 💡 Outros Projetos
 
