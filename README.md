@@ -22,7 +22,7 @@ Entusiasta da computação e em constante aprendizado com foco na resolução de
 - 🔒 [gambiarra-de](https://github.com/mateusjdev/gambiarra-de): Configurações do meu desktop environment no linux.
   - [dwm](https://github.com/mateusjdev/dwm): Gerenciador de janelas para X11.
   - [dmenu](https://github.com/mateusjdev/dmenu): Menu dinâmico.
-  - 🔒 dwmblocks: Barra de status.
+  - [dwmblocks](https://github.com/mateusjdev/dwmblocks): Barra de status.
 
 ### 💡 Outros Projetos
 
